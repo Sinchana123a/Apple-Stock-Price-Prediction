@@ -3,9 +3,7 @@
 Apple Stock Price Prediction using Linear Regression
 ====================================================
 
-**Project by Karan Zaveri**  
-_Email: [karanzaveri92@gmail.com](mailto:karanzaveri92@gmail.com)_  
-_License: MIT License_
+
 
 Project Description
 -------------------
@@ -216,11 +214,3 @@ In this project, we built and evaluated a **Linear Regression** model to predict
 
 Further improvements could involve the use of more sophisticated models like **Random Forest** or **XGBoost**, as well as the incorporation of additional features such as trading volume, volatility indicators, or external sentiment analysis.
 
-For any further questions or contributions, feel free to contact **Karan Zaveri** at _[karanzaveri92@gmail.com](mailto:karanzaveri92@gmail.com)_ .
-
-* * *
-
-License
--------
-
-This project is licensed under the **MIT License**.
