@@ -1,8 +1,5 @@
 # Apple-Stock-Price-Prediction
 Apple Stock Price Prediction using Linear Regression
-Project by Karan Zaveri
-Email: karanzaveri92@gmail.com
-License: MIT License
 
 Project Description
 This project aims to predict Apple Inc.'s stock prices using historical stock market data. By leveraging the Linear Regression machine learning model, we predict the future stock price based on historical prices and key technical indicators like moving averages. This project demonstrates the fundamental steps involved in building a predictive machine learning model, from data preprocessing and feature engineering to model training, evaluation, and visualization of results.
